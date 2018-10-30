@@ -1,0 +1,7 @@
+body.single.single-post .widget-area {
+    display: none;
+}
+
+body.single.single-post .content-area {
+    width: 100%;
+}
